@@ -1,5 +1,9 @@
 # EyesKit
 
+## Credits
+
+Mothblocks, Peptron1
+
 ## Usage
 
 After importing the unitypackage...
